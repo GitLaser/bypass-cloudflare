@@ -1,4 +1,3 @@
-✨ 专业高级版（适合 GitHub / 技术博客 / 官网）
 CloudflareBypass 终极方案：CloudflareKiller
 全球网站 80% 用 Cloudflare 防护，传统爬虫寸步难行。CloudflareKiller 提供极简 REST API，一站式解决：
 自动处理 JS 挑战、Turnstile 验证、5 秒盾
@@ -9,7 +8,9 @@ CloudflareBypass 终极方案：CloudflareKiller
 为数据采集、逆向工程、自动化测试提速 10 倍 +
 🚀 立即试用：https://cloudflarekiller.com
 
-
+<a href="https://cloudflarekiller.com/" target="_blank">
+  <img width="879" height="372" alt="image" src="https://github.com/user-attachments/assets/f2ddbef1-0c98-4081-b1c9-7ff59ff62f77" />
+</a>
 
 CloudflareKiller provides a powerful, reliable Cloudflare bypass API service.We help developers and businesses solve access restrictions from Cloudflare’s strict anti-bot policies.Core advantages:
 Automatic resolution of Cloudflare challenges and human verification
