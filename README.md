@@ -20,3 +20,6 @@ Cost-effective pay-as-you-go billing model
 Simplify web data collection and automated workflow with one-click integration.
 Start your free trial today:
 https://cloudflarekiller.com
+<a href="https://cloudflarekiller.com/" target="_blank">
+  <img width="748" height="391" alt="image" src="https://github.com/user-attachments/assets/e8d471a7-eb26-4a3a-8bd3-9974495bdddb" />
+</a>
